@@ -1,0 +1,37 @@
+{
+  "name": "siddur",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vk707/siddur.git"
+  },
+  "author": "A",
+  "dependencies": {
+    "moment": "^2.15.1",
+    "react": "^15.2.1",
+    "react-native": "^0.30.0",
+    "react-native-actionsheet": "^2.0.3",
+    "react-native-calendar": "^0.7.0",
+    "react-native-custom-action-sheet": "^0.0.11",
+    "react-native-geocoder": "^0.4.5",
+    "react-native-google-places-autocomplete": "^1.2.4",
+    "react-native-maps": "^0.7.1",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-navbar": "^1.5.0",
+    "react-native-radio-buttons": "^0.12.1",
+    "react-native-router-flux": "^3.26.24",
+    "react-native-search-bar": "^2.16.0",
+    "react-native-simple-modal": "^4.0.1",
+    "react-native-simple-store": "^1.0.1",
+    "react-native-storage": "^0.1.4",
+    "react-native-timer": "^1.1.2",
+    "react-native-vector-icons": "^2.0.3",
+    "react-timer-mixin": "^0.13.3",
+    "rn-viewpager": "^1.1.2"
+  }
+}
