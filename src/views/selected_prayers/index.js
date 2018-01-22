@@ -25,7 +25,6 @@ var storage = new Storage({
     sync : {
     }
 })
-
 var bookmarked = [];
 
 export default class SelectedPrayers extends Component
