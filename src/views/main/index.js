@@ -236,4 +236,4 @@ var styles = StyleSheet.create({
 		fontFamily: 'Abel',
 		marginTop: 10
 	},
-});
+}); 
